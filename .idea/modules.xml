@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CommodityManagementSys/CommodityManagementSys.iml" filepath="$PROJECT_DIR$/CommodityManagementSys/CommodityManagementSys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavawebDemo.iml" filepath="$PROJECT_DIR$/JavawebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Session_study/Session_study.iml" filepath="$PROJECT_DIR$/Session_study/Session_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEBHomework_zyy/WEBHomework_zyy.iml" filepath="$PROJECT_DIR$/WEBHomework_zyy/WEBHomework_zyy.iml" />
+    </modules>
+  </component>
+</project>

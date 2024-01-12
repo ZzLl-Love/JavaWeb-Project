@@ -1,0 +1,9 @@
+
+d
+java:S2259:"BA "NullPointerException" could be thrown; "conn" is nullable here.(ÖíÏâùÿÿÿÿ8¹×†í²1
+_
+java:S2259U"BA "NullPointerException" could be thrown; "conn" is nullable here.(©Ù§8¹×†í²1
+l
+java:S2095U"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©Ù§8º×†í²1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ä¦”±øÿÿÿÿ8¼×†í²1

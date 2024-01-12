@@ -1,0 +1,33 @@
+
+^
+java:S2184¹"BCast one of the operands of this addition operation to a "double".(Ë…÷øÿÿÿÿ
+^
+java:S2184¹"BCast one of the operands of this division operation to a "double".(Ë…÷øÿÿÿÿ
+N
+java:S2589û"7Remove this expression which always evaluates to "true"(Å…áı
+N
+java:S2589‘"7Remove this expression which always evaluates to "true"(Å…áı
+J
+java:S1854"5Remove this useless assignment to local variable "s".(¶ÍÕ5
+;
+java:S1481"&Remove this unused "s" local variable.(¶ÍÕ5
+m
+java:S2737p"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+W	java:S899k"BDo something with the "boolean" value returned by "createNewFile".(´ÂÖÙ
+:
+java:S2119€"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+4
+java:S2119™"Save and re-use this "Random".(¼İÅf
+@
+java:S1905ö")Remove this unnecessary cast to "double".(öÕ£§
+E
+java:S1905ø")Remove this unnecessary cast to "double".(Ñ¹áÅşÿÿÿÿ
+E
+java:S1905ù")Remove this unnecessary cast to "double".(àä‚½ÿÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(øÒÆşÿÿÿÿ
+@
+java:S1905Œ")Remove this unnecessary cast to "double".(öÕ£§
+E
+java:S1905")Remove this unnecessary cast to "double".(Ñ¹áÅşÿÿÿÿ
+E
+java:S1905")Remove this unnecessary cast to "double".(àä‚½ÿÿÿÿÿ

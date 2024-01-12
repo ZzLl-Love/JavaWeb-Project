@@ -1,0 +1,20 @@
+
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ­ ƒ
+X
+java:S2259;"BA "NullPointerException" could be thrown; "conn" is nullable here.(©Ù§
+Y
+java:S2259®"BA "NullPointerException" could be thrown; "conn" is nullable here.(¾ø¦Ä
+Y
+java:S2259"BA "NullPointerException" could be thrown; "conn" is nullable here.(©Ù§
+X
+java:S2259`"BA "NullPointerException" could be thrown; "conn" is nullable here.(©Ù§
+N
+java:S2589Â"7Remove this expression which always evaluates to "true"(¡ææú
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ä¦”±øÿÿÿÿ
+F
+java:S1481Z"0Remove this unused "generatedId" local variable.(¥İŸ®
+C
+java:S3011",This accessibility update should be removed.(˜ÂÓ˜
+H
+java:S3011",This accessibility bypass should be removed.(™»—°ùÿÿÿÿ

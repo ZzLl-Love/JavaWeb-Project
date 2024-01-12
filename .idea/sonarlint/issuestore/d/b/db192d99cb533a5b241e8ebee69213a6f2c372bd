@@ -1,0 +1,13 @@
+
+z
+java:S1149("_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(šù†»ÿÿÿÿÿ
+v
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(‘›þá
+f
+java:S1989'"PHandle the following exception that could be thrown by "getReader": IOException.(–Ä®
+e
+java:S1989+"OHandle the following exception that could be thrown by "readLine": IOException.(ÞÙ»
+k
+java:S1989>"PHandle the following exception that could be thrown by "getWriter": IOException.(ƒÍˆüüÿÿÿÿ
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ç¼Ó™

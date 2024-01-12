@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WEBHomework_zyy:war">
+    <output-path>$PROJECT_DIR$/WEBHomework_zyy/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WEBHomework_zyy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WEBHomework_zyy-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WEBHomework_zyy:war exploded" />
+    </root>
+  </artifact>
+</component>
